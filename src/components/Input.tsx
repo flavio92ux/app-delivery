@@ -1,8 +1,6 @@
-import React from 'react'
-
 export default function Input() {
   return (
-    <form>
+    <form className="w-full my-6 mx-4">
       <label
         htmlFor="search"
         className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
